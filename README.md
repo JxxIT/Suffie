@@ -1,2 +1,2 @@
 # Suffie
-An Electron based application for starting your servers.
+An Electron based application for starting your minecraft-servers.
